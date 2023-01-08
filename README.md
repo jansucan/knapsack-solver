@@ -1,3 +1,10 @@
+***
+
+**This is a frozen project. It is intended to provide authentic snapshot of the
+history with all the good things and all the things that could be improved.**
+
+***
+
 # knapsack-solver
 This is command-line utility for solving 0/1 knapsack problem
 using branch-and-bound method, dynamic programming, simple heuristic
